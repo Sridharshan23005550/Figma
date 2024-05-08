@@ -36,6 +36,7 @@ Figma
 
 
 ## OUTPUT:
+![Screenshot 2024-05-08 212321](https://github.com/Sridharshan23005550/Figma/assets/149986733/b5b3b99f-2173-4983-aecc-e4c84dbfb3f6)
 
 
 ## RESULT:
